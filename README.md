@@ -1,4 +1,4 @@
-### GitHub Stats
+### Master Hiei
 
 ![MasterHiei](https://github-readme-stats.vercel.app/api?username=MasterHiei&count_private=true&show_icons=true)
 
