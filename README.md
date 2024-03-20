@@ -1,3 +1,9 @@
-![MasterHiei](https://github-readme-stats.vercel.app/api?username=MasterHiei&count_private=true&show_icons=true)
+### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterHiei&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=MasterHiei&count_private=true&show_icons=true&rank_icon=percentile&theme=tokyonight" />
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterHiei&langs_count=8&layout=compact&theme=tokyonight" />
+</div>
+  
